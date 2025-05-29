@@ -1,14 +1,9 @@
-# Conveyor-Unit-with-Defect-Detection
-A mini conveyor system with a Raspberry Pi 4 and YOLO model for real-time defect detection. It classifies pieces as defective or non-defective using a camera feed. Validated in Factory IO simulation and implemented in a real-life prototype for automated quality control.
-Mini Conveyor Unit with Defect Detection
-
-
-<img width="500" alt="Screenshot 2025-05-29 130803" src="https://github.com/user-attachments/assets/42f7f706-64dc-464b-a2be-aefd604cd40b" />
-
 # Mini Conveyor Unit with Defect Detection
 
 ## Description
 A mini conveyor system powered by a Raspberry Pi 4 with a YOLO model for real-time defect detection. It classifies pieces as defective or non-defective using a camera feed. Validated in Factory IO simulation and implemented in a real-life prototype for automated quality control.
+
+<img width="500" alt="Screenshot 2025-05-29 130803" src="https://github.com/user-attachments/assets/42f7f706-64dc-464b-a2be-aefd604cd40b" />
 
 ## Features
 - **Defect Detection**: Utilizes a YOLO model to classify pieces as defective or non-defective based on visual inspection.
